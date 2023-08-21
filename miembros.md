@@ -8,7 +8,7 @@
 * Hank Pym
 * Hawkeye
 * Hulk
-* Iron Man
+* Nick Fury
 * Luke Cage
 * QuickSilver
 * Scarlet Witch
@@ -17,3 +17,4 @@
 * Vision
 * Wasp
 * Antman
+* Iron Man
